@@ -1,0 +1,30 @@
+{
+  "version": "0.1.11",
+  "go": "go version go1.26.5 darwin/arm64",
+  "artifacts": [
+    {
+      "target": "darwin_arm64",
+      "archive": "codexgo_0.1.11_darwin_arm64.tar.gz",
+      "archive_sha256": "131fa9cfa51dc33b4aaf24169784e4a7389ef9aadb1010193a7f6c89901a256c",
+      "binary_sha256": "5c11a473dd7254be0f67ece21618edc5bc2f2f5119468ef1fd4ca5bbc0254bcf"
+    },
+    {
+      "target": "darwin_amd64",
+      "archive": "codexgo_0.1.11_darwin_amd64.tar.gz",
+      "archive_sha256": "bdce451cd360da2f5c413f8bf8dc357d8ccf967dba13a712754c32e2fabba6db",
+      "binary_sha256": "bb8cce3976c284abb96216c350b405bdcd9314cb6fe206856c1ab1742bc830b7"
+    },
+    {
+      "target": "linux_amd64",
+      "archive": "codexgo_0.1.11_linux_amd64.tar.gz",
+      "archive_sha256": "bf7043afedda243951bf25e786a0fff9e25035e728cfa4a5c3a406275e622cb2",
+      "binary_sha256": "16b4550469e8ae0f8bf02f6817da51128b39794475633030312eb096931c4126"
+    },
+    {
+      "target": "linux_arm64",
+      "archive": "codexgo_0.1.11_linux_arm64.tar.gz",
+      "archive_sha256": "863df3ee29ef34699c271a25e53833fa5ae78512a1a8418653450bf0de1604d5",
+      "binary_sha256": "c666f23e338652063691108c8dbb3780a21a57cad5e1813a2a58a89fd715151f"
+    }
+  ]
+}
