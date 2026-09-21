@@ -1,3 +1,18 @@
+# codexgo 下载：稳定版与预览版
+
+稳定版：[0.1.11](https://github.com/amphiscope/codexgo-releases/releases/tag/v0.1.11)。
+
+## 预览版 0.1.12-preview.1
+
+[发布说明与全部文件](https://github.com/amphiscope/codexgo-releases/releases/tag/v0.1.12-preview.1) · [SHA256SUMS](https://github.com/amphiscope/codexgo-releases/releases/download/v0.1.12-preview.1/SHA256SUMS)
+
+- [darwin_arm64](https://github.com/amphiscope/codexgo-releases/releases/download/v0.1.12-preview.1/codexgo_0.1.12-preview.1_darwin_arm64.tar.gz)
+- [darwin_amd64](https://github.com/amphiscope/codexgo-releases/releases/download/v0.1.12-preview.1/codexgo_0.1.12-preview.1_darwin_amd64.tar.gz)
+- [linux_amd64](https://github.com/amphiscope/codexgo-releases/releases/download/v0.1.12-preview.1/codexgo_0.1.12-preview.1_linux_amd64.tar.gz)
+- [linux_arm64](https://github.com/amphiscope/codexgo-releases/releases/download/v0.1.12-preview.1/codexgo_0.1.12-preview.1_linux_arm64.tar.gz)
+
+这是预览版，部分人工验收仍在进行。请校验 SHA256 后解压到独立目录，保留稳定版；当前任务结束并完全退出桌面后，从新路径运行 `codexgo launch`。预览版不通过稳定版自动更新安装。更新主程序不会自动更新旧 Pi／CodeBuddy 适配器，已有会话固定适配器版本；请在插件设置检查，手工配置先备份。
+
 # codexgo
 
 在原版 Codex 桌面版里使用原生 harness。此仓库提供安装包下载与使用说明。
