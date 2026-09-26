@@ -1,30 +1,30 @@
 {
-  "version": "0.1.12-preview.1",
+  "version": "0.1.12-preview.2",
   "go": "go version go1.26.5 darwin/arm64",
   "artifacts": [
     {
       "target": "darwin_arm64",
-      "archive": "codexgo_0.1.12-preview.1_darwin_arm64.tar.gz",
-      "archive_sha256": "5166ac27cf1dee42b81c0031b76e1890f8cf39e3cf6a9781953198ab2910fdc6",
-      "binary_sha256": "bc476b40c8f2c9031c4031c3b66611926674f62a60fc61bf406a0c1ee723114f"
+      "archive": "codexgo_0.1.12-preview.2_darwin_arm64.tar.gz",
+      "archive_sha256": "31a45d0587d1c42a826b61abaabc6f33ce7a7f6f29c312a697cdaed33d2603ea",
+      "binary_sha256": "7a380bc199e853e3b844a06bddc77fdbd41c1c94ee067c5c63e277b41ceb43cc"
     },
     {
       "target": "darwin_amd64",
-      "archive": "codexgo_0.1.12-preview.1_darwin_amd64.tar.gz",
-      "archive_sha256": "67ecf5ac984e1f76593aec3a0538eb9f841065e3b010a575ac9c4d05fb6451cf",
-      "binary_sha256": "ea5104816794a598caba2f14816b0f45eae62420aecae41a2ab59b1946fcd84c"
+      "archive": "codexgo_0.1.12-preview.2_darwin_amd64.tar.gz",
+      "archive_sha256": "eabb90d799ad8c3b61fcbe1871106e3f6cf151687dee7c9beedaba71fc302fbc",
+      "binary_sha256": "5e9dac121f17e7e60d8f18e2ecfa0b00c64ded4ba26cbb232383f1e7d9971ead"
     },
     {
       "target": "linux_amd64",
-      "archive": "codexgo_0.1.12-preview.1_linux_amd64.tar.gz",
-      "archive_sha256": "c8199b04292b44adf69dc5a61e8b3c0bf1d6d55d14d070264eac967fc18f7e29",
-      "binary_sha256": "6bebdeceeccf7336d6c06ef6e8dcc93a8ce24471ee24fa41c30b5d49992c8063"
+      "archive": "codexgo_0.1.12-preview.2_linux_amd64.tar.gz",
+      "archive_sha256": "36aa28855d26387db97f4d6f8f3a67bd647500a0361f16017a5d4e46d999899e",
+      "binary_sha256": "9689cef06bd635327a80b2436be8509ae93d1fc6111dcb6f2fd2130c58deec12"
     },
     {
       "target": "linux_arm64",
-      "archive": "codexgo_0.1.12-preview.1_linux_arm64.tar.gz",
-      "archive_sha256": "8d650f7e922e1207a61b68dd0ea6354dfe81a1a3fb4b376b47e7b6bbaab28bc6",
-      "binary_sha256": "73f83ff1bac73cf43d0a7c2b83edaef7081fdd63f3a69ebe2814baf9bfb0e977"
+      "archive": "codexgo_0.1.12-preview.2_linux_arm64.tar.gz",
+      "archive_sha256": "65566bcdadb66d72310074964249126086a638785e6914c5902ecdd5f2e53578",
+      "binary_sha256": "f6d40f4afb768b7f4f8060dabca0f7573fc5e6a67b13d2665a5bb9928e326bd0"
     }
   ]
 }
